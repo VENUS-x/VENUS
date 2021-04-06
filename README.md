@@ -1,7 +1,7 @@
 # VENUS
-dataset
+A dataset.
 
-Since the video file is too large, we uploaded the original data of lip feature points extracted from the video frame.
+Since the video file is too large, we uploaded the original data of lip feature points extracted from the video frames.
 
 
 
